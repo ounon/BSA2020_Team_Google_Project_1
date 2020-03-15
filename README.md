@@ -1,4 +1,4 @@
-# Tutorial on chatbot creation with Microsoft Azure 
+# Tutorial on Chatbot Creation with Microsoft Azure 
 
 We have created a tutorial to create a chatbot with Microsoft Azure. Indeed, we were able to create an Echo Chat bot and a Basic bot. We have then added additional functionalitiies such as the Language understanding (LUIS) and the Knowledgebase with the QnA Maker. We were also able to code ourself a chatbot, implement it to Azure and then finally connect it to Telegram. 
 
