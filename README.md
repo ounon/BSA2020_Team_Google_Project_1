@@ -15,6 +15,7 @@ Follow the different steps explained in each section of our notebook.
 
 - ChatBotProject.ipynb: Python Notebook about creation of a chat bot with Microsoft Azure
 - Pictures: folder with images used for ChatBotProject Notebook
+- Code: folder with JS code for weather chatbot 
 
 ### Authors
 
